@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+rasterio
+matplotlib
+# download step
+pystac-client
+planetary-computer
+stackstac
+xarray
+dask
+# dev
+pytest
